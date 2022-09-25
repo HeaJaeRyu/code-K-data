@@ -34,7 +34,7 @@ for (i in 1:10){
 }
 i
 
-# PCR
+# PCA
 library(datasets)
 data(USArrests)
 str(USArrests)
